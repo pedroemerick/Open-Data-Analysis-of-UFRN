@@ -16,7 +16,9 @@ Foram realizados os seguintes estudos:
 	* Base de dados: discentes{2009..2019}.csv
 4. Porcentagem dos status dos discentes por ano em toda UFRN e em cada unidade;;
 	* Base de dados: discentes{2009..2019}.csv
-5. As unidades que contém mais gastos UFRN;
+5. As 5 menores médias de avaliação ao docente por ano do IMD;
+	* Base de dados: avaliacaodocencia.csv e docentes.csv
+6. As unidades que contém mais gastos UFRN;
 	* Base de dados: gastos-por-unidade.csv e unidades.csv
 
 ## Autoria
